@@ -14,12 +14,11 @@ development:
   #  database: db/development.sqlite3
   adapter: postgresql
   pool: 5
-  host: localhost
   timeout: 5000
-  username: WWYDH
-  password: password
-  database: WWYDH
-  host: wwydh.chitlustoxam.us-west-2.rds.amazonaws.com
+  username: b_server
+  password: Towson!B2016
+  database: wwydh
+  host: wwydh.cmzz0cwtiica.us-east-1.rds.amazonaws.com
   port: 5432
 
 
