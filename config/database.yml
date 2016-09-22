@@ -19,7 +19,7 @@ development:
   username: databasegroupb
   password: towsongroupb
   database: databasegroupb
-  host: wwydh.chitlustoxam.us-west-2.rds.amazonaws.com
+  host: databasegroupb.c7zaseiocg2u.us-west-2.rds.amazonaws.com
   port: 5432
 
 
