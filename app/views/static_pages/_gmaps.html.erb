@@ -13,13 +13,12 @@ handler.buildMap({
   provider: {
     // disableDefaultUI: true
     // pass in other Google Maps API options here
-    "https://maps.googleapis.com/maps/api/js?key=AIzaSyANe409_h7ySY9h80bWYjeZyeKcKwDwX78&callback=initMap"
   },
   internal: {
     id: 'map-container'
   }
 },
-function initMap(){
+function(){
   markers = handler.addMarkers([
     {
       "lat": 39.30941765,
